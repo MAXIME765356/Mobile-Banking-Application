@@ -40,7 +40,7 @@ flutter run
 
 ## Contact
 
-Whatsapp - +237 659432668, +237 671092331
+Whatsapp - MAXIME - +237 659432668, RYANFRANKLIN- +237 671092331
 
 Email - maxfotso769@gmail.com,  ngometune@gmail.com
 
