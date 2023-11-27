@@ -1,21 +1,12 @@
 <div align="center">
-  <img src="https://github.com/mohamed352/Inway/assets/48868363/53256e77-9fff-4d0e-ac06-d3d45a8ac2e7" alt="splash" width="400">
+ ![IMG-20231119-WA0011](https://github.com/MAXIME765356/U-Connect/assets/117815821/bb75932a-5b9a-40ed-b261-999f308f22b3)
+
 </div>
 
 
-## Inway
-Inway is an app inspired by Uber, designed to provide a similar ride-hailing experience. With Inway, users can easily request rides, track their drivers, and reach their destinations conveniently. The app leverages the power of Google Maps to display real-time locations and optimize route navigation. It also utilizes Firebase as the backend to enable seamless phone-based signup and comprehensive profile management.
-## Features
+## Flutter mobile banking application
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-- Google Maps
-- Location decatet
-- Phone Auth
-- Beutfull Animations
-- Login with Google and Facebook
+
 ## Installation
 
 Clone the repository and run the following commands:
@@ -28,33 +19,25 @@ flutter run
 - Firebase
 - Flutter
 - http
-- Google Maps
 - Animaitions
-## Demo
-https://appetize.io/app/avtzg4qosxa7s5labpbv327pt4?device=pixel7&osVersion=13.0&scale=75
-## Video
-https://drive.google.com/file/d/1LlRomLglmDzTMiLT8rLqrJO-vXvtLr_n/view?usp=sharing
+
 ## Screenshots
- | Intro                                          | SingUp                                  | Login                                             |
+ | Otp                                                                                                                 | Verify otp                                  
 | --------------------------------------------------- | ------------------------------------- | --------------------------------------------------------- |
-|![Intro_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/40abf420-03b7-4b63-acc2-8fd39c3300dc) | ![Phone_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/672c0e39-7a27-4ab7-9f08-a35ec712bad1) |![Login_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/fae81956-f411-4328-b900-e8097f96013b) |
+|  ![IMG-20231119-WA0012](https://github.com/MAXIME765356/U-Connect/assets/117815821/fdff024b-cd6a-4cb5-80f3-eb8e332ed397)
+ | ![![IMG-20231119-WA0010](https://github.com/MAXIME765356/U-Connect/assets/117815821/8934efe4-a2a8-4cae-875b-8ed91766d64e)
+] |
 
-| home                                           | map                                           | activity                                           |
+| home                                           |                                            | activity                                           |
 | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| ![home_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/8b376d82-41e5-4d8b-8ab8-5db91e18f78d) | ![map_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/9ca8c687-7758-49e9-9f45-890fb2fec025) |![Activiity_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/9f50c1e3-ed31-4582-af91-bf60dff72020)|
+| ![![IMG-20231119-WA0003](https://github.com/MAXIME765356/U-Connect/assets/117815821/af3c9833-0e5d-486f-8b9a-f2238362c64b)
+]() | ![![IMG-20231119-WA0006](https://github.com/MAXIME765356/U-Connect/assets/117815821/b2efee54-c2c9-4e8d-abd3-ea6d3e529810)
+]() |![![IMG-20231119-WA0009](https://github.com/MAXIME765356/U-Connect/assets/117815821/faaf4ba8-a6d5-4d7b-bd03-70db7c573237)
+](![IMG-20231119-WA0007](https://github.com/MAXIME765356/U-Connect/assets/117815821/aba31886-b551-4e44-a060-fae9140262f6)
+)|
 
-| Profile                                     |  Setting                                |    edit                                                |
-| ------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
-|![Profile_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/81d5a5a1-f618-4cfa-9ef5-675e787edddd) |![Settings_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/08e2851f-f70b-4267-9ba0-8b7de4023c7a) |![Edit_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/Inway/assets/48868363/838c5ece-b009-4beb-a191-4ef1642d4cb0) |
 
-## Contact 
-  
- If you have any questions or suggestions, feel free to reach out: 
-    
- - Email: [mohamedmostafa5380@gmail.com](mailto:mohamedmostafa5380@gmail.com) 
- - LinkedIn: [Send offer](https://www.linkedin.com/in/mohamed-mostafa-a88328190) 
- - facebook: [Mohamed Mostafa](https://www.facebook.com/profile.php?id=100022707412139&mibextid=ZbWKwL)
- - WahtsApp: [Send Messege](https://wa.me/01551022078/?text=Hello)
+
 
 
 
